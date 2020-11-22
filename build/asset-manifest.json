@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e08bb8ca.chunk.css",
+    "main.js": "/static/js/main.5cd158f6.chunk.js",
+    "main.js.map": "/static/js/main.5cd158f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b63f9581.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b63f9581.js.map",
+    "static/js/2.4477f574.chunk.js": "/static/js/2.4477f574.chunk.js",
+    "static/js/2.4477f574.chunk.js.map": "/static/js/2.4477f574.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.30790ff6945968a51beee42a19771a80.js": "/precache-manifest.30790ff6945968a51beee42a19771a80.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e08bb8ca.chunk.css.map": "/static/css/main.e08bb8ca.chunk.css.map",
+    "static/js/2.4477f574.chunk.js.LICENSE.txt": "/static/js/2.4477f574.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/Bitswift_Grid-Verticle-1.5fb88c63.png",
+    "static/media/bar-logo.png": "/static/media/bar-logo.c1ecd630.png",
+    "static/media/bitswift-canadian.png": "/static/media/bitswift-canadian.c5170420.png",
+    "static/media/bitswift-merchants.png": "/static/media/bitswift-merchants.fd64aec7.png",
+    "static/media/clothing-logo.png": "/static/media/clothing-logo.ad33aded.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b63f9581.js",
+    "static/js/2.4477f574.chunk.js",
+    "static/css/main.e08bb8ca.chunk.css",
+    "static/js/main.5cd158f6.chunk.js"
+  ]
+}
