@@ -65,7 +65,7 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom text-color-dark" data-reveal-delay="1600">
-              Free Community Powered Internet, for local businesses, by local businesses
+              Free Community Powered Internet, empowering local businesses, by local businesses
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="4000">
                 <ButtonGroup>

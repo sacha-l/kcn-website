@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to = "https://myaccount.bitswift.network/index.html" onClick={closeMenu}>Login</Link>
+                      <a href = "https://myaccount.bitswift.network/index.html" onClick={closeMenu}>Login</a>
                     </li>
                   </ul>
                   {!hideSignin &&
@@ -120,7 +120,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li> 
-                        <Link to="#0" className="button button-secondary text-color-secondary button-wide-mobile button-sm" onClick={closeMenu}>Sign up</Link>
+                        <a href = "https://myaccount.bitswift.network/index.html" className="button button-secondary text-color-secondary button-wide-mobile button-sm" onClick={closeMenu}>Sign up</a>
                       </li>
                     </ul>}
                 </div>

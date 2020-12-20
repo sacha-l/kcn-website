@@ -211,6 +211,20 @@ const FeaturesTiles = ({
                 </div>
               </div>
             </div>
+
+            <div className="tiles-item reveal-from-bottom" data-reveal-delay="400">
+              <div className="tiles-item-inner">
+                <div className="features-tiles-item-header">
+                    <Image
+                      src={require('./../../assets/images/your-logo-here.png')}
+                      alt="Your Logo"
+                      width={160}
+                      height={160} />
+                </div>
+              </div>
+            </div>
+
+            
           </div>
         </div>   
       </div>

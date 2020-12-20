@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'Our Ambition',
-    paragraph: 'To drive customers to purchase from participating businesses and empower businesses with a new way for pedestrians to discover what they offer.'
+    paragraph: 'To empower businesses with a new way for pedestrians to discover what they offer using a mesh based community WiFi.'
   };
 
   return (
@@ -73,7 +73,7 @@ const FeaturesSplit = ({
                 Easy participation.
                   </h3>
                 <p className="m-0">
-                Businesses participate by allocating their internet bandwidth to the KCN. With access points already available in most businesses, this requires little setup or configuration. This doesn't take away from the connection speed of the participating business, it only pools resources to allow for a limited capacity connection that other nearby businesses are contributing to. 
+                Businesses participate by allocating their internet bandwidth to the network. For businesses with access points already installed, this requires little setup and configuration. Businesses can be up and running in minutes.
                   </p>
               </div>
               <div className={
@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/bitswift-mobile.png')}
+                  src={require('./../../assets/images/bitswift-house.png')}
                   alt="Bitswift Mobile"
                   width={528}
                   height={396} />
@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                   Reliable, Secure.
                   </h3>
                 <p className="m-0">
-                This means that a connected pedestrian walking from store A to store D, where all stores A-D have participating access points, will likely be consuming bandwidth from multiple business access points on their journey from A to D. 
+                This means that a pedestrian connected to the network walking from store A to store D, where all stores A-D have KCN access points, will likely be consuming bandwidth from multiple business participants on their journey from A to D. 
                 </p>
               </div>
               <div className={
@@ -135,8 +135,8 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/bitswift-house.png')}
-                  alt="Bitswift House"
+                  src={require('./../../assets/images/bitswift-wifi.png')}
+                  alt="Bitswift Wifi"
                   width={528}
                   height={396} />
               </div>
@@ -144,11 +144,8 @@ const FeaturesSplit = ({
 
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  No risk of downtime
-                  </div>
                 <h3 className="mt-0 mb-12">
-                  More mesh magic.
+                  Pilot access points.
                   </h3>
                 <p className="m-0">
                 This decentralized model implies that in a network of 3 participating businesses for example, if the access point or bandwidth is down for one business and the other access points are in close enough range, the business whose connection is down can rely on KCN to maintain a connection. Additionally, the more businesses participating in the network, the wider the network coverage is. Useful for localized power outages for example.
@@ -161,8 +158,8 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/bitswift-wifi.png')}
-                  alt="Bitswift Wifi"
+                  src={require('./../../assets/images/KCN first phase.png')}
+                  alt="Pilot KCN"
                   width={528}
                   height={396} />
               </div>

@@ -1,11 +1,9 @@
 {
-  "homepage": "https://sacha-l.github.io/kcn-website",
-  "name": "kcn-website",
+  "name": "kcn",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
-    "deploy": "^1.0.3",
     "lodash": "^4.17.15",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
@@ -14,9 +12,11 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sacha-l/kingston-community-network/website"
+  },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

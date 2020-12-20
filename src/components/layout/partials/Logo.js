@@ -19,13 +19,13 @@ const Logo = ({
       className={classes}
     >
       <h1 className="m-0">
-        <Link to="/">
+      <a href="https://bitswift.tech/">
           <Image
             src={require('./../../../assets/images/bitswift-logo.png')}
             alt="Open"
             width={100}
             height={23} />
-        </Link>
+        </a>
       </h1>
     </div>
   );
