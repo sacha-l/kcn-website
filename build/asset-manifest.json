@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c30ca5bd.chunk.css",
+    "main.js": "/static/js/main.15db246a.chunk.js",
+    "main.js.map": "/static/js/main.15db246a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3a92f51a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3a92f51a.js.map",
+    "static/js/2.5f3f4ea9.chunk.js": "/static/js/2.5f3f4ea9.chunk.js",
+    "static/js/2.5f3f4ea9.chunk.js.map": "/static/js/2.5f3f4ea9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b57e36fd3fdabe2f7c9e812572ea7dad.js": "/precache-manifest.b57e36fd3fdabe2f7c9e812572ea7dad.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c30ca5bd.chunk.css.map": "/static/css/main.c30ca5bd.chunk.css.map",
+    "static/js/2.5f3f4ea9.chunk.js.LICENSE.txt": "/static/js/2.5f3f4ea9.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/Bitswift_Grid-Horizontal-Alt-1.747d67ed.png",
+    "static/media/KCN first phase.png": "/static/media/KCN first phase.97077c9a.png",
+    "static/media/bar-logo.png": "/static/media/bar-logo.c1ecd630.png",
+    "static/media/bitswift-canadian.png": "/static/media/bitswift-canadian.c5170420.png",
+    "static/media/bitswift-merchants.png": "/static/media/bitswift-merchants.fd64aec7.png",
+    "static/media/clothing-logo.png": "/static/media/clothing-logo.ad33aded.png",
+    "static/media/your-logo-here.png": "/static/media/your-logo-here.74209121.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a92f51a.js",
+    "static/js/2.5f3f4ea9.chunk.js",
+    "static/css/main.c30ca5bd.chunk.css",
+    "static/js/main.15db246a.chunk.js"
+  ]
+}
