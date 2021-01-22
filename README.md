@@ -1,4 +1,7 @@
 # KCN Website
+
+See website URL: http://www.kingstoncommunitynetwork.com/
+
 ## Usage
 To host information about the Kingston Community Network and eventually scale outwards to add backend functionality for network users / participants.
 
